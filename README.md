@@ -41,13 +41,13 @@ About Me:
   
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1024px-C%2B%2B_logo.svg.png" alt="C++" width="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C++" width="60" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_%282016%29.svg/1024px-Java_logo_%282016%29.svg.png" alt="Java" width="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https:/github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" />
