@@ -33,7 +33,7 @@ About Me:
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCdALJzk987bvgpqXw_z_R9g" target="_blank">
-    ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt="Youtube">)
   </a>
 </p>
 
