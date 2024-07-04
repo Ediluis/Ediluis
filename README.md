@@ -57,6 +57,32 @@ About Me:
   </a>
 </p>
 
-
-
 ---
+
+### 🧑‍💻 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ediluis&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/Ediluis)
+
+### 🔥 My GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ediluis&theme=gruvbox)](https://github.com/Ediluis)
+
+### 💬 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ediluis&layout=compact&theme=gruvbox)](https://github.com/Ediluis)
+
+### 📅 GitHub Contributions
+
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ediluis&theme=gruvbox)](https://github.com/Ediluis)
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ediluis&theme=gruvbox)](https://github.com/Ediluis)
+
+### 📊 My GitHub Activity
+
+[![GitHub Activity Overview](https://github-readme-activity-graph.cyclic.app/graph?username=Ediluis&bg_color=1e1e1e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Ediluis)
+
+### 📈 Advanced GitHub Stats
+
+[![Advanced GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ediluis&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=gruvbox&custom_title=Advanced%20GitHub%20Stats)](https://github.com/Ediluis)
