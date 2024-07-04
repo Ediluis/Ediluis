@@ -30,8 +30,12 @@ About Me:
 - 📫 How to reach me: edisanchez@hotmail.com
 - 📺 Check Out My YouTube Channel! I regularly upload videos on my YouTube channel covering topics related to engineering, programming, and technology. Join me for tutorials, project walkthroughs, and more!
 
+
 <p align="center">
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdALJzk987bvgpqXw_z_R9g)
+  <a href="https://www.youtube.com/channel/UCdALJzk987bvgpqXw_z_R9g" target="_blank">
+    ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+  </a>
 </p>
+
 
 ---
