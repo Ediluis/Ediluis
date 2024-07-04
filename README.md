@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/astronomy-earth-hE7qzzcOwXh5u](https://giphy.com/embed/hE7qzzcOwXh5u" width="200" />
+<img src="https://giphy.com/gifs/astronomy-earth-hE7qzzcOwXh5u](https://giphy.com/embed/hE7qzzcOwXh5u](https://giphy.com/embed/qrlOmXoTgHAd2" width="200" />
 </div>
 
 ## Hi there 👋
