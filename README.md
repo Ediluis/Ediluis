@@ -55,6 +55,13 @@ About Me:
   <a href="https://www.ni.com/en-us/support/software/labview.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" alt="LabVIEW" width="60" />
   </a>
+
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://www.flaticon.com/free-icon/sap_882701?term=sap&page=1&position=3&origin=search&related_id=882701" alt="SAP" width="60" />
+  </a>
 </p>
+
+
+
 
 ---
