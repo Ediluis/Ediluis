@@ -50,7 +50,7 @@ About Me:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_logo_2020.svg/1024px-Python_logo_2020.svg.png" alt="Python" width="60" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matlab_Logo.svg/800px-Matlab_Logo.svg.png" alt="MATLAB" width="60" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matlab_Logo.svg/800px-Matlab_Logo.svg.png](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg)" alt="MATLAB" width="60" />
   </a>
   <a href="https://www.ni.com/en-us/support/software/labview.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LabVIEW_Logo.svg/800px-LabVIEW_Logo.svg.png" alt="LabVIEW" width="60" />
