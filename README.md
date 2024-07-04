@@ -1,8 +1,11 @@
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/astronomy-earth-hE7qzzcOwXh5u](https://giphy.com/embed/hE7qzzcOwXh5u](https://giphy.com/embed/qrlOmXoTgHAd2" width="200" />
-</div>
+  <img src="https://giphy.com/gifs/astronomy-earth-hE7qzzcOwXh5u](https://giphy.com/embed/hE7qzzcOwXh5u](https://giphy.com/embed/qrlOmXoTgHAd2" width="200" />
+  <h1 align="center"> Hi👋, I'm Edison Luis Sanchez Maldonado </h1>
+  <h3 align="center"> I'm a PhD student in Engineering Sciences - Manufacturing at Tecnológico de Monterrey, with a background in Mechatronics Engineering and an MBA. As a programmer, I leverage my engineering     knowledge and experience to develop innovative solutions, guided by principles of wisdom, ethics, and responsibility. Committed to excellence and continuous learning, I strive to contribute to both academic and professional fields. </h3>
 
-## Hi there 👋
+  </div>
+
+## 
 
 <!--
 **Ediluis/Ediluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
