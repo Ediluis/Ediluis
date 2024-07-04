@@ -35,6 +35,27 @@ About Me:
   <a href="https://www.youtube.com/channel/UCdALJzk987bvgpqXw_z_R9g" target="_blank">
      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">)
   </a>
+
+
+  ## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23E34A86.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2334A853.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/MATLAB-%23E14F47.svg?&style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+  </a>
+  <a href="https://www.ni.com/en-us/support/software/labview.html" target="_blank">
+    <img src="https://img.shields.io/badge/LabVIEW-%235D5D5D.svg?&style=for-the-badge&logo=labview&logoColor=white" alt="LabVIEW" />
+  </a>
+</p>
 </p>
 
 
