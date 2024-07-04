@@ -28,5 +28,13 @@ About Me:
 - 🤔 I’m looking for help with data science.
 - 💬 Ask me about mechatronics, robotics, additive manufacturing, administration, Python, Java, C++, and MATLAB.
 - 📫 How to reach me: edisanchez@hotmail.com
+- 📺 Check Out My YouTube Channel!
 
--->
+I regularly upload videos on my YouTube channel covering topics related to engineering, programming, and technology. Join me for tutorials, project walkthroughs, and more!
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/TU_CANAL](https://www.youtube.com/channel/UCdALJzk987bvgpqXw_z_R9g))
+
+Feel free to subscribe and stay tuned for my latest content!
+- 
+
+---
