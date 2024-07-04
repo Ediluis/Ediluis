@@ -57,10 +57,9 @@ About Me:
   </a>
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/sap_882701?term=sap&page=1&position=3&origin=search&related_id=882701" alt="SAP" width="60" />
+    <img src="https://images.app.goo.gl/wpARTSrQjyv1UxMf7" alt="SAP" width="60" />
   </a>
 </p>
-
 
 
 
