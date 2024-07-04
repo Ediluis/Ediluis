@@ -38,24 +38,23 @@ About Me:
 
 
   ## 🛠️ Languages and Tools
-
+  
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png" alt="C++" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1024px-C%2B%2B_logo.svg.png" alt="C++" width="60" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_%282016%29.svg/1024px-Java_logo_%282016%29.svg.png" alt="Java" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_%282016%29.svg/1024px-Java_logo_%282016%29.svg.png" alt="Java" width="60" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_logo_2020.svg/1024px-Python_logo_2020.svg.png" alt="Python" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_logo_2020.svg/1024px-Python_logo_2020.svg.png" alt="Python" width="60" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matlab_Logo.svg/800px-Matlab_Logo.svg.png" alt="MATLAB" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matlab_Logo.svg/800px-Matlab_Logo.svg.png" alt="MATLAB" width="60" />
   </a>
   <a href="https://www.ni.com/en-us/support/software/labview.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LabVIEW_Logo.svg/1200px-LabVIEW_Logo.svg.png" alt="LabVIEW" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LabVIEW_Logo.svg/800px-LabVIEW_Logo.svg.png" alt="LabVIEW" width="60" />
   </a>
 </p>
-
 
 ---
