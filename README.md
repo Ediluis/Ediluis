@@ -41,21 +41,20 @@ About Me:
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png" alt="C++" width="100" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23E34A86.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_%282016%29.svg/1024px-Java_logo_%282016%29.svg.png" alt="Java" width="100" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2334A853.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_logo_2020.svg/1024px-Python_logo_2020.svg.png" alt="Python" width="100" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/MATLAB-%23E14F47.svg?&style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matlab_Logo.svg/800px-Matlab_Logo.svg.png" alt="MATLAB" width="100" />
   </a>
   <a href="https://www.ni.com/en-us/support/software/labview.html" target="_blank">
-    <img src="https://img.shields.io/badge/LabVIEW-%235D5D5D.svg?&style=for-the-badge&logo=labview&logoColor=white" alt="LabVIEW" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LabVIEW_Logo.svg/1200px-LabVIEW_Logo.svg.png" alt="LabVIEW" width="100" />
   </a>
-</p>
 </p>
 
 
